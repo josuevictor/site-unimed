@@ -48,6 +48,18 @@ header{
     opacity: 1;
 }
 
+.fonte-btn-compra-plano{
+    top: 59px;
+    left: 1356px;
+    width: 217px;
+    height: 28px;
+    color: var(--branco);
+    text-align: left;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
 .banner-topo{
     max-width: 100%;
     display: -ms-flexbox;
